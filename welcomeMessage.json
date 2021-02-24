@@ -1,1 +1,28 @@
-[{"id":0,"from":"Bart","text":"Welcome to CYF chat system!"},{"id":1,"from":"hola","text":"zaquiel "},{"id":3,"from":"hola","text":"Alfonso "},{"id":0},{"id":0},{"id":0}]
+[
+    {
+        "id": "2",
+        "from": "Bart",
+        "text": "Welcome to CYF chat system!"
+    },
+    {
+        "id": "1",
+        "from": "hola",
+        "text": "zaquiel "
+    },
+    {
+        "id": "3",
+        "from": "hola",
+        "text": "Alfonso "
+    },
+    {
+        "hola": "hola",
+        "id": "5",
+        "name": "angelo"
+    },
+    {
+        "hola": "hola",
+        "id": "6",
+        "name": "angelo",
+        "Hora": "2020-11-26T17:55:01.080Z"
+    }
+]
